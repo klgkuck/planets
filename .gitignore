@@ -1,3 +1,6 @@
 moons/**
 moons/moon
 legacy
+
+*.dat
+results/
